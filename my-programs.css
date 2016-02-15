@@ -1,0 +1,22 @@
+#my_programs{
+  font-family: sans-serif;
+  color: black;
+}
+#my_programs h2{
+  margin-bottom: 0;
+  display: block;
+}
+#my_programs a{
+  margin-left: 10px;
+  text-decoration: none;
+  color: #428BCA;
+}
+#my_programs a:hover{
+  text-decoration: underline;
+}
+#my_programs div{
+  min-width: 350px;
+}
+#my_programs p{
+  margin: 0 0 0 10px;
+}
