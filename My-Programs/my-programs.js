@@ -43,4 +43,7 @@ function getMyPrograms(){
   dataConnector += program2.join("");
   dataConnector += program1.join("");
   document.getElementById("my_programs").innerHTML = dataConnector;
+  
+  // Link into another function that creates the css
+  cssCreator();
 }
