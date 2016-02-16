@@ -42,5 +42,5 @@ function getMyPrograms(){
   dataConnector += program3.join("");
   dataConnector += program2.join("");
   dataConnector += program1.join("");
-  document.getElementById("my_programs").innerHTML = style + dataConnector;
+  document.getElementById("my_programs").innerHTML = dataConnector;
 }
