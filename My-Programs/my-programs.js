@@ -11,8 +11,8 @@ function getMyPrograms(){
   program7[2] = "<p>A small program that calculates the damage you may recieve against enemies.</p></div>";
   var program6 = [];
   program6[0] = "<div><h2>Tic Tac Toe</h2>";
-  program6[1] = "<a href=\"https://www.dropbox.com/s/nnjqewyllh2gixb/TTT.exe?dl=0\" target=\"_blank\">Download Link</a></br>";
-  program6[2] = "<p>Play Tic Tac Toe against another human, against a computer, or place two computers against each other.</p>";
+  program6[1] = "<a href=\"https://www.dropbox.com/s/nnjqewyllh2gixb/TTT.exe?dl=0\" target=\"_blank\">Download Link</a>";
+  program6[2] = "<p>Play Tic Tac Toe against another human, against a computer, or place two computers against each other.</p></div>";
   var program5 = [];
   program5[0] = "<div><h2>&lt;/br&gt; Adder</h2>";
   program5[1] = "<a href=\"https://www.dropbox.com/s/k1n9ymigk5zt1xa/br%20Adder.exe?dl=0\" target=\"_blank\">Download Link</a>";
