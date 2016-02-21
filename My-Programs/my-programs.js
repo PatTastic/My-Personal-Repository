@@ -4,8 +4,8 @@ function getMyPrograms(){
     var program10 = [];
     program10[0] = "<div><h2>Auto Typer</h2>";
     program10[1] = "<a href=\"https://www.dropbox.com/s/uf5m9xk0pkveqk0/Auto%20Typer.exe?dl=0\" target=\"_blank\">Download Link</a>";
-    program10[2] = "<hr><p><b>Application Type:</b> Windows Form | <b>Extension:</b> .exe | <b>Language:</b> C# | <b>Size:</b> 15.50KB</p><hr>";
-    program10[3] = "<p>Auto types custom text at custom intervals. Auto clicks at customer intervals.</p></div>";
+    program10[2] = "<hr><p><b>Application Type:</b> Windows Form | <b>Extension:</b> .exe | <b>Language:</b> C# | <b>Size:</b> 20.50KB</p><hr>";
+    program10[3] = "<p>Auto types custom text at custom intervals. Auto clicks at custom intervals. Game Macro creator</p></div>";
     var program9 = [];
     program9[0] = "<div><h2>Text Modifier</h2>";
     program9[1] = "<a href=\"https://www.dropbox.com/s/w9bf1x8bty6q3i5/Text%20Modifier.exe?dl=0\" target=\"_blank\">Download Link</a>";
